@@ -40,7 +40,7 @@ same — no download, no files, no setup. On any Windows 10/11 PC, open
 *"Windows PowerShell (Admin)"*) and paste:
 
 ```powershell
-irm https://raw.githubusercontent.com/bckyle1-debug/WUtility/main/WUtility/peak.ps1 | iex
+irm https://raw.githubusercontent.com/bckyle1-debug/WUtility/main/peak.ps1 | iex
 ```
 
 That's it. It opens the full GUI, auto-elevates when a task needs it, and leaves
@@ -56,8 +56,8 @@ irm https://tinyurl.com/wuutility | iex
 **Advanced / scripting** (no GUI, no elevation prompt for read-only stuff):
 
 ```powershell
-& ([scriptblock]::Create((irm https://raw.githubusercontent.com/bckyle1-debug/WUtility/main/WUtility/peak.ps1))) -List
-& ([scriptblock]::Create((irm https://raw.githubusercontent.com/bckyle1-debug/WUtility/main/WUtility/peak.ps1))) -Install vscode,git
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/bckyle1-debug/WUtility/main/peak.ps1))) -List
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/bckyle1-debug/WUtility/main/peak.ps1))) -Install vscode,git
 ```
 
 ## CLI (the WinUtil superpower)
