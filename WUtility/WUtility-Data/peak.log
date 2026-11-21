@@ -1,0 +1,101 @@
+2026-11-21 12:51:46 [*] === WUtility ===
+2026-11-21 12:51:46     Dry-run: True
+2026-11-21 12:51:50     DRY-RUN: winget install Mozilla.Firefox (Firefox)
+2026-11-21 12:51:50 [+] Git is already installed - skipped.
+2026-11-21 12:51:50 [+] Dry-run finished. Nothing was changed.
+2026-11-21 13:03:05 [*] === WUtility ===
+2026-11-21 13:03:05     Dry-run: True
+2026-11-21 13:03:05     DRY-RUN: winget install Mozilla.Firefox (Firefox)
+2026-11-21 13:03:05 [+] Git is already installed - skipped.
+2026-11-21 13:03:05 [+] Dry-run finished. Nothing was changed.
+2026-11-21 13:08:02 [*] === WUtility ===
+2026-11-21 13:08:02     Dry-run: True
+2026-11-21 13:08:02 [*] Debloat starting - 41 app targets...
+2026-11-21 13:08:25 [*] === WUtility ===
+2026-11-21 13:08:25     Dry-run: True
+2026-11-21 13:08:25 [*] Debloat starting - 41 app targets...
+2026-11-21 13:08:25     Not elevated: previewing current-user apps only (the real run auto-elevates).
+2026-11-21 13:08:26     DRY-RUN: would remove Microsoft.BingNews
+2026-11-21 13:08:27     DRY-RUN: would remove Microsoft.GamingApp
+2026-11-21 13:08:29     DRY-RUN: would remove Microsoft.WindowsFeedbackHub
+2026-11-21 13:08:30     DRY-RUN: would remove Microsoft.YourPhone
+2026-11-21 13:08:30     DRY-RUN: would remove Microsoft.ZuneMusic
+2026-11-21 13:08:30     DRY-RUN: would remove Microsoft.ZuneVideo
+2026-11-21 13:08:30     DRY-RUN: would remove Microsoft.OutlookForWindows
+2026-11-21 13:08:30     DRY-RUN: would remove MicrosoftCorporationII.QuickAssist
+2026-11-21 13:08:31     DRY-RUN: would remove MicrosoftCorporationII.MicrosoftFamily
+2026-11-21 13:08:31     DRY-RUN: would remove MicrosoftTeams
+2026-11-21 13:08:31     DRY-RUN: would remove microsoft.windowscommunicationsapps
+2026-11-21 13:08:31     DRY-RUN: disable task \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser
+2026-11-21 13:08:31     DRY-RUN: disable task \Microsoft\Windows\Application Experience\ProgramDataUpdater
+2026-11-21 13:08:31     DRY-RUN: disable task \Microsoft\Windows\Application Experience\StartupAppTask
+2026-11-21 13:08:31     DRY-RUN: disable task \Microsoft\Windows\Autochk\Proxy
+2026-11-21 13:08:31     DRY-RUN: disable task \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+2026-11-21 13:08:31     DRY-RUN: disable task \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+2026-11-21 13:08:32     DRY-RUN: disable task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+2026-11-21 13:08:32     DRY-RUN: disable task \Microsoft\Windows\Feedback\Siuf\DmClient
+2026-11-21 13:08:32     DRY-RUN: disable task \Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload
+2026-11-21 13:08:32     DRY-RUN: would disable services DiagTrack, dmwappushservice
+2026-11-21 13:08:32     DRY-RUN: would disable services DiagTrack, dmwappushservice
+2026-11-21 13:08:32     DRY-RUN: would set 16 anti-reinstall / widgets / copilot registry values
+2026-11-21 13:08:32 [*] Debloat complete.
+2026-11-21 13:08:32 [+] Dry-run finished. Nothing was removed. 41 app targets + anti-reinstall keys + telemetry tasks checked.
+2026-11-21 13:08:32 [+] Dry-run finished. Nothing was changed.
+2026-11-21 13:08:38 [*] === WUtility ===
+2026-11-21 13:08:38     Dry-run: True
+2026-11-21 13:08:38 [*] Debloat starting - 41 app targets...
+2026-11-21 13:08:38     Not elevated: previewing current-user apps only (the real run auto-elevates).
+2026-11-21 13:08:39     DRY-RUN: would remove Microsoft.BingNews
+2026-11-21 13:08:40     DRY-RUN: would remove Microsoft.GamingApp
+2026-11-21 13:08:44     DRY-RUN: would remove Microsoft.WindowsFeedbackHub
+2026-11-21 13:08:44     DRY-RUN: would remove Microsoft.YourPhone
+2026-11-21 13:08:45     DRY-RUN: would remove Microsoft.ZuneMusic
+2026-11-21 13:08:45     DRY-RUN: would remove Microsoft.ZuneVideo
+2026-11-21 13:08:45     DRY-RUN: would remove Microsoft.OutlookForWindows
+2026-11-21 13:08:46     DRY-RUN: would remove MicrosoftCorporationII.QuickAssist
+2026-11-21 13:08:48     DRY-RUN: would remove MicrosoftCorporationII.MicrosoftFamily
+2026-11-21 13:08:48     DRY-RUN: would remove MicrosoftTeams
+2026-11-21 13:08:49     DRY-RUN: would remove microsoft.windowscommunicationsapps
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Application Experience\ProgramDataUpdater
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Application Experience\StartupAppTask
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Autochk\Proxy
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Feedback\Siuf\DmClient
+2026-11-21 13:08:49     DRY-RUN: disable task \Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload
+2026-11-21 13:08:49     DRY-RUN: would disable services DiagTrack, dmwappushservice
+2026-11-21 13:08:49     DRY-RUN: would disable services DiagTrack, dmwappushservice
+2026-11-21 13:08:49     DRY-RUN: would set 16 anti-reinstall / widgets / copilot registry values
+2026-11-21 13:08:49 [*] Debloat complete.
+2026-11-21 13:08:49 [+] Dry-run finished. Nothing was removed. 41 app targets + anti-reinstall keys + telemetry tasks checked.
+2026-11-21 13:08:49 [+] Dry-run finished. Nothing was changed.
+2026-11-21 13:28:13 [*] === WUtility ===
+2026-11-21 13:28:13     Dry-run: False
+2026-11-21 13:28:13 [+] Registry backup: C:\Users\akaib\Downloads\peak app widows editor\WUtility-Data\backups\20261121_132813-tweaks
+2026-11-21 13:28:13 [*] Applying Stop feedback & experience prompts
+2026-11-21 13:28:13       Rules\NumberOfSIUFInPeriod = 0
+2026-11-21 13:28:13 [!]   could not delete HKCU:\Software\Microsoft\Siuf\Rules\PeriodInNanoSeconds: The property 'PeriodInNanoSeconds' cannot be found on this object. Verify that the property exists.
+2026-11-21 13:28:13 [+] 1 tweaks applied. Restart Explorer or reboot to see every change.
+2026-11-21 13:28:13 [+] All done. Reboot if prompted.
+2026-11-21 13:28:34 [*] === WUtility ===
+2026-11-21 13:28:34     Dry-run: False
+2026-11-21 13:29:57 [*] === WUtility ===
+2026-11-21 13:29:57     Dry-run: False
+2026-11-21 13:29:57 [+] Registry backup: C:\Users\akaib\Downloads\peak app widows editor\WUtility-Data\backups\20261121_132957-tweaks
+2026-11-21 13:29:57 [*] Applying Disable Xbox Game DVR / Game Bar recording
+2026-11-21 13:29:57       GameConfigStore\GameDVR_Enabled = 0
+2026-11-21 13:29:57 [E]   FAILED HKLM:\SOFTWARE\Policies\Microsoft\Windows\GameDVR\AllowGameDVR: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GameDVR' is denied.
+2026-11-21 13:29:57 [+] 1 tweaks applied. Restart Explorer or reboot to see every change.
+2026-11-21 13:29:57 [+] All done. Reboot if prompted.
+2026-11-21 13:29:57 [*] === WUtility ===
+2026-11-21 13:29:57     Dry-run: False
+2026-11-21 13:29:57 [*] Undoing Disable Xbox Game DVR / Game Bar recording
+2026-11-21 13:29:57       GameConfigStore\GameDVR_Enabled = 1
+2026-11-21 13:29:57 [E]   FAILED HKLM:\SOFTWARE\Policies\Microsoft\Windows\GameDVR\AllowGameDVR: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GameDVR' is denied.
+2026-11-21 13:29:57 [+] 1 tweaks reverted. Restart Explorer or reboot to see every change.
+2026-11-21 13:29:57 [+] All done. Reboot if prompted.
+2026-11-21 13:30:05 [*] Restoring backup: C:\Users\akaib\Downloads\peak app widows editor\WUtility-Data\backups\20261121_132957-tweaks
+2026-11-21 13:30:05       imported System_GameConfigStore.reg
+2026-11-21 13:30:05 [+] Backup restored. Restart explorer or reboot to see every change.

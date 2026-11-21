@@ -1,0 +1,1 @@
+HKCU:\Software\Microsoft\Siuf\Rules|NumberOfSIUFInPeriod|0
