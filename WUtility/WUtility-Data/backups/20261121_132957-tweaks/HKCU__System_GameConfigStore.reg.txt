@@ -1,0 +1,1 @@
+HKCU:\System\GameConfigStore|GameDVR_Enabled|1
